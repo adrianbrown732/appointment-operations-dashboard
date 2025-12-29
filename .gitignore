@@ -28,3 +28,6 @@ dist/
 # Data outputs (keep raw, ignore processed artifacts)
 data/processed/*
 !data/processed/.gitkeep
+
+# Scripts
+scripts/
